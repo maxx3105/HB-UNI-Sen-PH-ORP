@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name LM2662M)(type Legacy)(uri ${KIPRJMOD}/Library/LM2662M/LM2662M.lib)(options "")(descr ""))
+  (lib (name LM358M_NOPB)(type Legacy)(uri ${KIPRJMOD}/Library/LM358M_NOPB/LM358M_NOPB.lib)(options "")(descr ""))
+  (lib (name LM2660M)(type Legacy)(uri ${KIPRJMOD}/Library/LM2660M/LM2660M.lib)(options "")(descr ""))
+)

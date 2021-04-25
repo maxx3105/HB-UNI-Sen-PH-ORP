@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name LM358M_NOPB)(type KiCad)(uri ${KIPRJMOD}/Library/LM358M_NOPB.pretty)(options "")(descr ""))
+  (lib (name LM2660M)(type KiCad)(uri ${KIPRJMOD}/Library/LM2660M.pretty)(options "")(descr ""))
+  (lib (name myArduinoModules)(type KiCad)(uri C:/Users/marku/OneDrive/Dokumente/HB-Uni-230/HB-Uni-230/libraries/myArduinoModules.pretty)(options "")(descr ""))
+  (lib (name myRadioModules)(type KiCad)(uri C:/Users/marku/OneDrive/Dokumente/HB-Uni-230/HB-Uni-230/libraries/myRadioModules.pretty)(options "")(descr ""))
+)
