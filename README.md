@@ -22,15 +22,13 @@ SW1                        | Taster               |   1    | [Aliexpress](https:
 PS1                        | HLK-PM01             |   1    |             |
 X1                         | WAGO 236-403         |   1    |             |
 U1                         | Arduino MiniPro 3,3V |   1    |             |
-U2                         | CC1101               |   1    |             |
+U2                         | CC1101               |   1    | [Aliexpress](https://de.aliexpress.com/item/32924239954.html) |
 U3                         | LM2660M              |   1    |             |
 U4                         | LM358M               |   1    |             |
 RV1                        | Varistor             |   1    |             |
 
 
 #### Sonstiges
-
-CC1101 https://de.aliexpress.com/item/32924239954.html
 
 ~8,3 cm Draht als Antenne
 
