@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,(5.1.9)-1*%
-%TF.CreationDate,2021-04-25T03:29:38+02:00*%
+%TF.CreationDate,2021-04-26T03:37:11+02:00*%
 %TF.ProjectId,HB-Uni-SEN-ORB,48422d55-6e69-42d5-9345-4e2d4f52422e,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L2,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-04-25 03:29:38*
+G04 Created by KiCad (PCBNEW (5.1.9)-1) date 2021-04-26 03:37:11*
 %MOMM*%
 %LPD*%
 G01*
@@ -61,15 +61,15 @@ G04 APERTURE LIST*
 %TD*%
 G04 APERTURE END LIST*
 D10*
-%TO.P,PH_SENS,3*%
+%TO.P,PH_SENSOR,3*%
 %TO.N,GND*%
 X162330000Y-75400000D03*
 D11*
-%TO.P,PH_SENS,2*%
+%TO.P,PH_SENSOR,2*%
 %TO.N,/VCC*%
 X159790000Y-75400000D03*
 D10*
-%TO.P,PH_SENS,1*%
+%TO.P,PH_SENSOR,1*%
 %TO.N,/A0*%
 X157250000Y-75400000D03*
 %TD*%

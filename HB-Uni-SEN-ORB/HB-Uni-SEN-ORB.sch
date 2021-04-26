@@ -698,4 +698,38 @@ Text Label 5965 4885 0    50   ~ 0
 VCC
 Text Label 5965 4785 0    50   ~ 0
 GND
+$Comp
+L Device:R R6
+U 1 1 608629BB
+P 6250 3495
+F 0 "R6" V 6210 3345 50  0000 C CNN
+F 1 "10K" V 6245 3490 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 6180 3495 50  0001 C CNN
+F 3 "~" H 6250 3495 50  0001 C CNN
+	1    6250 3495
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 6086540B
+P 6250 3595
+F 0 "R5" V 6210 3445 50  0000 C CNN
+F 1 "10K" V 6245 3590 50  0000 C CNN
+F 2 "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" V 6180 3595 50  0001 C CNN
+F 3 "~" H 6250 3595 50  0001 C CNN
+	1    6250 3595
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5965 3495 6100 3495
+Wire Wire Line
+	5965 3595 6100 3595
+Wire Wire Line
+	6400 3495 6465 3495
+Wire Wire Line
+	6465 3495 6465 3595
+Wire Wire Line
+	6465 3595 6400 3595
+Text Label 6465 3495 0    50   ~ 0
+VCC
 $EndSCHEMATC
