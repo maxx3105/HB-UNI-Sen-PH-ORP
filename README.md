@@ -12,7 +12,7 @@ Bauteile                   | Bezeichnung          | Anzahl | Kommentar   |
 R1,R2                      | 30K Ohm              |   2    |             |
 R3                         | 75K Ohm              |   1    |             |
 R4                         | 1,5K Ohm             |   1    |             |
-R5,R6                      | 30K Ohm              |   2    |             |
+R5,R6                      | 10K Ohm              |   2    |             |
 SR1                        | 1K Ohm               |   1    |  [ELV.de](https://de.elv.com/sicherungswiderstand-1k-091814?fs=1418091890)           |
 C1,C2                      | 150 µF               |   2    |             |
 C3,C4,C6                   | 0,1 µF               |   3    |             |
