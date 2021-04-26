@@ -18,7 +18,7 @@ C1,C2                      | 150 µF               |   2    |             |
 C3,C4,C6                   | 0,1 µF               |   3    |             |
 C5,C7                      | 10 µF                |   2    |             |
 D1                         | SMD LED Rot          |   1    |             |
-SW1                        | Taster               |   1    | Aliepress (https://de.aliexpress.com/item/32660690016.html?spm=a2g0s.9042311.0.0.27424c4dqj9wVN)            |
+SW1                        | Taster               |   1    | [Aliexpress](https://de.aliexpress.com/item/32660690016.html?spm=a2g0s.9042311.0.0.27424c4dqj9wVN)            |
 PS1                        | HLK-PM01             |   1    |             |
 X1                         | WAGO 236-403         |   1    |             |
 U1                         | Arduino MiniPro 3,3V |   1    |             |
